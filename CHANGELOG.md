@@ -4,6 +4,11 @@ This is the Developer Changelog for Piwik platform developers. All changes in ou
 
 The Product Changelog at **[piwik.org/changelog](https://piwik.org/changelog)** lets you see more details about any Piwik release, such as the list of new guides and FAQs, security fixes, and links to all closed issues. 
 
+## Piwik 3.2.1
+
+### New Features
+* New JavaScript method `piwikHelper.registerShortcut` allows plugins to bind keyboard shortcuts. A summary for available shortcuts will be shown by pressing `?`
+
 ## Piwik 3.2.0
 
 ### New Segments
@@ -25,7 +30,6 @@ The Product Changelog at **[piwik.org/changelog](https://piwik.org/changelog)** 
 
 ### New Features
 * New config.ini.php setting `show_update_notification_to_superusers_only` makes it possible to hide update notifications for all users except of superusers
-* New JavaScript method `piwikHelper.registerShortcut` allows plugins to bind keyboard shortcuts. A summary for available shortcuts will be shown by pressing `?`
 
 ## Piwik 3.1.0
 
