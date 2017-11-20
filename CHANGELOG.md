@@ -6,6 +6,9 @@ The Product Changelog at **[piwik.org/changelog](https://piwik.org/changelog)** 
 
 ## Piwik 3.2.1
 
+### New APIs
+* Themes can now customize the header text color using `@theme-color-header-text`
+
 ### New Features
 * New JavaScript method `piwikHelper.registerShortcut` allows plugins to bind keyboard shortcuts. A summary for available shortcuts will be shown by pressing `?`
 
